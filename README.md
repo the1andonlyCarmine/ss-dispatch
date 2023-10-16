@@ -1,8 +1,8 @@
-# PS Dispatch
+# SS Dispatch
 
 Integrated with [ps-mdt](https://github.com/Project-Sloth/ps-mdt)
 
-For all support questions, ask in our [Discord](https://www.discord.gg/projectsloth) support chat. 
+For all support questions, ask in our [Discord](https://www.discord.gg/projectsloth) support chat.   Eat my ass...  He abandoned support chat on all his loyal supporters when times got tough.  
 Do not create issues on GitHub if you need help. Issues are for bug reporting and new features only.
 
 # Depedency
@@ -81,11 +81,11 @@ Do not create issues on GitHub if you need help. Issues are for bug reporting an
 - exports['ps-dispatch']:SuspiciousActivity()
 
 - exports['ps-dispatch']:SignRobbery()
+
+- exports['ps-dispatch']:BobcatHeist()
 ```
 
 # Credits
-* [OK1ez](https://github.com/OK1ez)
-* [Candrex](https://github.com/CandrexDev)
-* [Lenzh](https://github.com/Lenzh)
-* [LeSiiN](https://github.com/LeSiiN)
-* Project Sloth Team
+the1andonly_Carmine
+WalterWyoming
+* Project Sloth Team for initial commit
