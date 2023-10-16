@@ -1,9 +1,10 @@
+local QBCore = exports['qb-core']:GetCoreObject()
 local calls = {}
 
+function GetDispatchCalls() return calls end
+exports('GetDispatchCalls', GetDispatchCalls)
 -- Functions
-exports('GetDispatchCalls', function()
-    return calls
-end)
+--exports('GetDispatchCalls', function() return calls end)
 
 -- Events
 RegisterServerEvent('ps-dispatch:server:notify', function(data)
